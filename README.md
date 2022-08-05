@@ -4,7 +4,7 @@
 The purpose of this project is to provide UFO enthusiasts with table of UFO sitings that they can filter to access targeted information.
 
 ## Results
-To apply the filter, enter the information you are looking for in the input fields.  The table will be updated to display only the pertinant data.
+To apply the filter, enter the information you are looking for in the input fields.  The table will be updated to display only the pertinent data.
 
 ![](resources/filter.png)
 ![](resources/filtered_table.png)
